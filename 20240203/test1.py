@@ -13,3 +13,4 @@ dect1 = {(1, 2): "sss"}
 print(list(dect1.values()))
 dect1.values()
 print(5//2)
+

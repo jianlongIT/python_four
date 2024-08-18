@@ -1,7 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8702cf13-31ad-48b0-9d2d-290a431655dd" name="Default Changelist" comment="" />
+    <list default="true" id="8702cf13-31ad-48b0-9d2d-290a431655dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/20240801/students.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240801/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240801/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240804/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240804/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240806/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240806/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240807/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240807/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240807/test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240809/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240809/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240811/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240811/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240811/test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240812/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240813/logging_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240813/muke.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240813/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240813/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240813/test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240813/test4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240813/testbase64.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240814/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240814/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240815/students.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240815/students.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240815/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240815/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240815/test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240815/test4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240815/test5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240817/process_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240817/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240817/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240817/test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240817/test4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240818/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240818/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240818/test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/cat/Cat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/cat/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/cat/action.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/dog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/dog/action.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +83,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="git@github.com:jianlongIT/python_four.git" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="2brZAcVvsAI16SBm5hbfM845ciG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -36,6 +110,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -45,95 +120,7 @@
       <recent name="$PROJECT_DIR$/20240302" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="Test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_four" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20240712" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20240712/Test2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="getnum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_four" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20240729" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20240729/getnum.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="students (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_four" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20240729" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20240729/students.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="students" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_four" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20240703" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20240703/students.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.test3 (1)">
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_four" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,12 +129,100 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20240730" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20240818" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20240730/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20240818/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_four" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20240818" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20240818/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_four" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20240818" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20240818/test3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_four" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20240817" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20240817/test4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testbase64" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_four" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20240813" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20240813/testbase64.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,11 +233,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test3 (1)" />
+        <item itemvalue="Python.test2 (1)" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.getnum" />
-        <item itemvalue="Python.students (1)" />
-        <item itemvalue="Python.students" />
-        <item itemvalue="Python.Test2" />
+        <item itemvalue="Python.test4" />
+        <item itemvalue="Python.testbase64" />
       </list>
     </recent_temporary>
   </component>
@@ -212,6 +287,29 @@
       <workItem from="1720732798761" duration="1262000" />
       <workItem from="1721854879902" duration="871000" />
       <workItem from="1722190482451" duration="8033000" />
+      <workItem from="1722459031506" duration="3870000" />
+      <workItem from="1722573073875" duration="7284000" />
+      <workItem from="1722755129238" duration="3320000" />
+      <workItem from="1722773198792" duration="511000" />
+      <workItem from="1722773723177" duration="53000" />
+      <workItem from="1722773786206" duration="81000" />
+      <workItem from="1722773876958" duration="90000" />
+      <workItem from="1722773977036" duration="10280000" />
+      <workItem from="1723199025331" duration="1160000" />
+      <workItem from="1723220953612" duration="125000" />
+      <workItem from="1723383986654" duration="8120000" />
+      <workItem from="1723555887163" duration="6123000" />
+      <workItem from="1723573415219" duration="1243000" />
+      <workItem from="1723622168974" duration="466000" />
+      <workItem from="1723622647654" duration="245000" />
+      <workItem from="1723622905255" duration="299000" />
+      <workItem from="1723623216498" duration="70000" />
+      <workItem from="1723623339708" duration="524000" />
+      <workItem from="1723623876551" duration="78000" />
+      <workItem from="1723623965778" duration="833000" />
+      <workItem from="1723624852518" duration="10379000" />
+      <workItem from="1723834746922" duration="10064000" />
+      <workItem from="1723987254945" duration="4195000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1722285922709</created>
@@ -226,55 +324,95 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1722285829259">
+    <state x="340" y="118" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1723025875034">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1722285829259" />
-    <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.25.1440.820@0.25.1440.820" timestamp="1713801790936" />
-    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1722285829256">
+    <state x="340" y="118" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1440.900@0.0.1440.900" timestamp="1723025875034" />
+    <state x="507" y="209" key="FileChooserDialogImpl" timestamp="1723622128877">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1722285829256" />
-    <state width="1398" height="209" key="GridCell.Tab.0.center/0.25.1440.820@0.25.1440.820" timestamp="1713801790935" />
-    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1722285829255">
+    <state x="507" y="209" key="FileChooserDialogImpl/0.0.1440.900@0.0.1440.900" timestamp="1723622128877" />
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1723994132861">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1722285829255" />
-    <state width="1398" height="209" key="GridCell.Tab.0.left/0.25.1440.820@0.25.1440.820" timestamp="1713801790934" />
-    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1722285829258">
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1723994132861" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.25.1440.820@0.25.1440.820" timestamp="1723827914085" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1723994132860">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1722285829258" />
-    <state width="1398" height="209" key="GridCell.Tab.0.right/0.25.1440.820@0.25.1440.820" timestamp="1713801790935" />
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1722285622462">
+    <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1723994132860" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.25.1440.820@0.25.1440.820" timestamp="1723827914084" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1723994132860">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1722285622462" />
-    <state width="1398" height="260" key="GridCell.Tab.1.bottom/0.25.1440.820@0.25.1440.820" timestamp="1713799814706" />
-    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1722285622462">
+    <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1723994132860" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.25.1440.820@0.25.1440.820" timestamp="1723827914084" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1723994132861">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1722285622462" />
-    <state width="1398" height="260" key="GridCell.Tab.1.center/0.25.1440.820@0.25.1440.820" timestamp="1713799814705" />
-    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1722285622461">
+    <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1723994132861" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.25.1440.820@0.25.1440.820" timestamp="1723827914085" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1723969486155">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1722285622461" />
-    <state width="1398" height="260" key="GridCell.Tab.1.left/0.25.1440.820@0.25.1440.820" timestamp="1713799814704" />
-    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1722285622462">
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1723969486155" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.25.1440.820@0.25.1440.820" timestamp="1723827914086" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1723969486154">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1722285622462" />
-    <state width="1398" height="260" key="GridCell.Tab.1.right/0.25.1440.820@0.25.1440.820" timestamp="1713799814705" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1723969486154" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.25.1440.820@0.25.1440.820" timestamp="1723827914086" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1723969486154">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1723969486154" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.25.1440.820@0.25.1440.820" timestamp="1723827914085" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1723969486155">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1723969486155" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.25.1440.820@0.25.1440.820" timestamp="1723827914086" />
+    <state x="478" y="156" key="RollbackChangesDialog" timestamp="1722654123724">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="478" y="156" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1722654123724" />
+    <state x="229" y="86" key="SettingsEditor" timestamp="1723624593798">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="86" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1723624593798" />
     <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1722287174210">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1722287174210" />
+    <state x="423" y="207" width="594" height="486" key="find.popup" timestamp="1723752107420">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="423" y="207" width="594" height="486" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1723752107420" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1723968069527">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1723968069527" />
+    <state x="450" y="356" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1723624515311">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="450" y="356" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1440.900@0.0.1440.900" timestamp="1723624515311" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -284,36 +422,55 @@
           <line>3</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20240801/students.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_four$extend.coverage" NAME="extend Coverage Results" MODIFIED="1709281194130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240228" />
-    <SUITE FILE_PATH="coverage/python_four$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1720640677456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240711" />
+    <SUITE FILE_PATH="coverage/python_four$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1723750104690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240815" />
+    <SUITE FILE_PATH="coverage/python_four$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1723916314939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240817" />
+    <SUITE FILE_PATH="coverage/python_four$test2__2_.coverage" NAME="test2 (2) Coverage Results" MODIFIED="1723547680234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240813" />
     <SUITE FILE_PATH="coverage/python_four$copytest2.coverage" NAME="copytest2 Coverage Results" MODIFIED="1709279896934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240228" />
-    <SUITE FILE_PATH="coverage/python_four$students__1_.coverage" NAME="students (1) Coverage Results" MODIFIED="1722201697439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240729" />
-    <SUITE FILE_PATH="coverage/python_four$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1720557096650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240710" />
+    <SUITE FILE_PATH="coverage/python_four$students__1_.coverage" NAME="students (1) Coverage Results" MODIFIED="1723753430070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240801" />
+    <SUITE FILE_PATH="coverage/python_four$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1723662148961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240815" />
     <SUITE FILE_PATH="coverage/python_four$dolloar.coverage" NAME="dolloar Coverage Results" MODIFIED="1713498116523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240418" />
-    <SUITE FILE_PATH="coverage/python_four$test.coverage" NAME="test Coverage Results" MODIFIED="1722284387806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240730" />
+    <SUITE FILE_PATH="coverage/python_four$test.coverage" NAME="test Coverage Results" MODIFIED="1723992753744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240818" />
+    <SUITE FILE_PATH="coverage/python_four$test3__1_.coverage" NAME="test3 (1) Coverage Results" MODIFIED="1723994132853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240818" />
+    <SUITE FILE_PATH="coverage/python_four$logging.coverage" NAME="logging_test Coverage Results" MODIFIED="1723574052094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240813" />
     <SUITE FILE_PATH="coverage/python_four$20240302.coverage" NAME="20240302 Coverage Results" MODIFIED="1709320116763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240302" />
     <SUITE FILE_PATH="coverage/python_four$Test2.coverage" NAME="Test2 Coverage Results" MODIFIED="1721955542211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240712" />
     <SUITE FILE_PATH="coverage/python_four$numtest.coverage" NAME="numtest Coverage Results" MODIFIED="1712174869080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240404" />
+    <SUITE FILE_PATH="coverage/python_four$process_test.coverage" NAME="process_test Coverage Results" MODIFIED="1723903832497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240817" />
+    <SUITE FILE_PATH="coverage/python_four$testbase64.coverage" NAME="testbase64 Coverage Results" MODIFIED="1723967991242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240813" />
     <SUITE FILE_PATH="coverage/python_four$coc.coverage" NAME="coc Coverage Results" MODIFIED="1713422022525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240418" />
     <SUITE FILE_PATH="coverage/python_four$cat2.coverage" NAME="cat2 Coverage Results" MODIFIED="1720288119484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240706" />
-    <SUITE FILE_PATH="coverage/python_four$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1720642395515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240711" />
+    <SUITE FILE_PATH="coverage/python_four$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1723919281301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240817" />
     <SUITE FILE_PATH="coverage/python_four$account.coverage" NAME="account Coverage Results" MODIFIED="1720293653986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240706" />
-    <SUITE FILE_PATH="coverage/python_four$test2__1_.coverage" NAME="test2 (1) Coverage Results" MODIFIED="1711714470685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240329" />
+    <SUITE FILE_PATH="coverage/python_four$Cat.coverage" NAME="Cat Coverage Results" MODIFIED="1722753203451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/animal/cat" />
     <SUITE FILE_PATH="coverage/python_four$getnum.coverage" NAME="getnum Coverage Results" MODIFIED="1722202017563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240729" />
+    <SUITE FILE_PATH="coverage/python_four$test2__1_.coverage" NAME="test2 (1) Coverage Results" MODIFIED="1723993764374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240818" />
     <SUITE FILE_PATH="coverage/python_four$test1__1_.coverage" NAME="test1 (1) Coverage Results" MODIFIED="1711961799829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240401" />
     <SUITE FILE_PATH="coverage/python_four$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1711713061882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240329" />
     <SUITE FILE_PATH="coverage/python_four$goose.coverage" NAME="goose Coverage Results" MODIFIED="1713537113876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240419" />
     <SUITE FILE_PATH="coverage/python_four$usewhile.coverage" NAME="usewhile Coverage Results" MODIFIED="1713415841063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240418" />
     <SUITE FILE_PATH="coverage/python_four$sorttest.coverage" NAME="sorttest Coverage Results" MODIFIED="1709275915857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240228" />
     <SUITE FILE_PATH="coverage/python_four$list_test.coverage" NAME="list_test Coverage Results" MODIFIED="1720210805713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240706" />
-    <SUITE FILE_PATH="coverage/python_four$students.coverage" NAME="students Coverage Results" MODIFIED="1722190322039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240703" />
-    <SUITE FILE_PATH="coverage/python_four$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1720639150165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240711" />
-    <SUITE FILE_PATH="coverage/python_four$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1720645475147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240711" />
+    <SUITE FILE_PATH="coverage/python_four$students.coverage" NAME="students Coverage Results" MODIFIED="1723757504607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240815" />
     <SUITE FILE_PATH="coverage/python_four$pointest.coverage" NAME="pointest Coverage Results" MODIFIED="1720730189580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240712" />
+    <SUITE FILE_PATH="coverage/python_four$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1723210902790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240809" />
+    <SUITE FILE_PATH="coverage/python_four$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1723969212787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240817" />
     <SUITE FILE_PATH="coverage/python_four$list1.coverage" NAME="list1 Coverage Results" MODIFIED="1709274603690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240228" />
     <SUITE FILE_PATH="coverage/python_four$huabei.coverage" NAME="huabei Coverage Results" MODIFIED="1712168933587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240404" />
     <SUITE FILE_PATH="coverage/python_four$copytest.coverage" NAME="copytest Coverage Results" MODIFIED="1709277953491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240228" />

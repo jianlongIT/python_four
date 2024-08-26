@@ -1,0 +1,36 @@
+{
+  "level1": {
+    "level1": {},
+    "level2": {
+      "iPhone": {
+        "name": "iPhone",
+        "count": 97
+      },
+      "Mac": {
+        "name": "Mac",
+        "count": 97
+      }
+    },
+    "level3": {
+      "iPad": {
+        "name": "iPad",
+        "count": 94
+      }
+    }
+  },
+  "level2": {
+    "level1": {},
+    "level2": {},
+    "level3": {}
+  },
+  "level3": {
+    "level1": {},
+    "level2": {},
+    "level3": {}
+  },
+  "level4": {
+    "level1": {},
+    "level2": {},
+    "level3": {}
+  }
+}

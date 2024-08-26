@@ -1,0 +1,28 @@
+{
+  "jianlong": {
+    "username": "jianlong",
+    "role": "admin",
+    "active": true,
+    "create_time": 1724634660.770139,
+    "update_time": 1724634660.770139,
+    "gifts": []
+  },
+  "xiaoguo": {
+    "username": "xiaoguo",
+    "role": "normal",
+    "active": true,
+    "create_time": 1724634776.5545259,
+    "update_time": 1724634776.5559082,
+    "gifts": [
+      "iPad",
+      "iPad",
+      "iPad",
+      "iPhone",
+      "Mac",
+      "iPad",
+      "iPhone",
+      "Mac",
+      "iPad"
+    ]
+  }
+}

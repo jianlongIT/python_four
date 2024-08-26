@@ -20,33 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8702cf13-31ad-48b0-9d2d-290a431655dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/20240819/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20240819/test3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20240819/test4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20240819/test5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20240819/test6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20240821/course.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20240821/file_exe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20240821/my_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20240821/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20240822/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20240822/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20240824/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20240824/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20240825/ksf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20240825/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20240825_gift/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20240825_gift/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20240825_gift/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20240825_gift/common/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20240825_gift/common/consts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20240825_gift/common/error.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20240825_gift/common/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20240825_gift/storage/gift.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20240825_gift/storage/user.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20240825_gift/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240826/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240826/test/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20240826/test1/jianlong/test2/a.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20240819/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/20240819/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20240811/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/20240811/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,15 +71,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/20240826/test2" />
       <recent name="$PROJECT_DIR$/20240821" />
       <recent name="$PROJECT_DIR$/20240821/pack" />
       <recent name="$PROJECT_DIR$/20240703" />
       <recent name="$PROJECT_DIR$/20240729" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.user">
-    <configuration name="admin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.test">
+    <configuration name="glob_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_four" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,12 +87,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20240825_gift" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20240826" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20240825_gift/admin.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20240826/glob_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="base" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_four" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,12 +109,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20240825_gift" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20240826" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20240825_gift/base.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20240826/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ksf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_four" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,12 +131,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20240825" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20240826" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20240825/ksf.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20240826/test2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="user" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_four" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,12 +153,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20240825_gift" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20240826" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20240825_gift/user.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20240826/test3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,7 +167,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_four" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -197,12 +175,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20240825_gift/common" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20240826" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20240825_gift/common/utils.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20240826/test4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.user" />
-        <item itemvalue="Python.admin" />
-        <item itemvalue="Python.base" />
-        <item itemvalue="Python.utils" />
-        <item itemvalue="Python.ksf" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.test4" />
+        <item itemvalue="Python.test3" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.glob_test" />
       </list>
     </recent_temporary>
   </component>
@@ -292,7 +270,11 @@
       <workItem from="1723987254945" duration="13845000" />
       <workItem from="1724184568723" duration="2122000" />
       <workItem from="1724187061023" duration="9832000" />
-      <workItem from="1724518361525" duration="23990000" />
+      <workItem from="1724518361525" duration="28188000" />
+      <workItem from="1724694180990" duration="1223000" />
+      <workItem from="1724697803295" duration="1232000" />
+      <workItem from="1724700860819" duration="803000" />
+      <workItem from="1724702119258" duration="4594000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1722285922709</created>
@@ -308,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1724008162132</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="25commit">
+      <created>1724672564313</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724672564313</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -329,56 +318,61 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+    <MESSAGE value="25commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="25commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="340" y="118" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1723025875034">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="340" y="118" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1440.900@0.0.1440.900" timestamp="1723025875034" />
+    <state x="458" y="201" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1724676470988">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="201" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1724676470988" />
     <state x="507" y="209" key="FileChooserDialogImpl" timestamp="1723622128877">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="507" y="209" key="FileChooserDialogImpl/0.0.1440.900@0.0.1440.900" timestamp="1723622128877" />
-    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1724671033157">
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1724706519152">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1724671033157" />
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1724706519152" />
     <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.25.1440.820@0.25.1440.820" timestamp="1724517906487" />
-    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1724671033156">
+    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1724706519151">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1724671033156" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1724706519151" />
     <state width="1398" height="303" key="GridCell.Tab.0.center/0.25.1440.820@0.25.1440.820" timestamp="1724517906487" />
-    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1724671033156">
+    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1724706519150">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1724671033156" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1724706519150" />
     <state width="1398" height="303" key="GridCell.Tab.0.left/0.25.1440.820@0.25.1440.820" timestamp="1724517906486" />
-    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1724671033157">
+    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1724706519151">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1724671033157" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1724706519151" />
     <state width="1398" height="303" key="GridCell.Tab.0.right/0.25.1440.820@0.25.1440.820" timestamp="1724517906487" />
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1724517906488">
-      <screen x="0" y="25" width="1440" height="820" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1724706414885">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1724445095749" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1724706414885" />
     <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.25.1440.820@0.25.1440.820" timestamp="1724517906488" />
-    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1724517906488">
-      <screen x="0" y="25" width="1440" height="820" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1724706414884">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1724445095748" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1724706414884" />
     <state width="1398" height="303" key="GridCell.Tab.1.center/0.25.1440.820@0.25.1440.820" timestamp="1724517906488" />
-    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1724517906487">
-      <screen x="0" y="25" width="1440" height="820" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1724706414884">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1724445095747" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1724706414884" />
     <state width="1398" height="303" key="GridCell.Tab.1.left/0.25.1440.820@0.25.1440.820" timestamp="1724517906487" />
-    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1724517906488">
-      <screen x="0" y="25" width="1440" height="820" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1724706414885">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1724445095748" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1724706414885" />
     <state width="1398" height="303" key="GridCell.Tab.1.right/0.25.1440.820@0.25.1440.820" timestamp="1724517906488" />
     <state x="478" y="156" key="RollbackChangesDialog" timestamp="1722654123724">
       <screen x="0" y="0" width="1440" height="900" />
@@ -388,10 +382,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="229" y="86" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1723624593798" />
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1724008173927">
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1724672576541">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1724008173927" />
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1724672576541" />
     <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1724077033022">
       <screen x="0" y="25" width="1440" height="820" />
     </state>
@@ -400,10 +394,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="423" y="207" width="594" height="538" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1724530980377" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1724610124881">
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1724697961477">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1724610124881" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1724697961477" />
     <state x="450" y="356" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1723624515311">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -435,50 +429,52 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_four$extend.coverage" NAME="extend Coverage Results" MODIFIED="1709281194130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240228" />
     <SUITE FILE_PATH="coverage/python_four$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1724094933803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240819" />
-    <SUITE FILE_PATH="coverage/python_four$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1724450996551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240824" />
-    <SUITE FILE_PATH="coverage/python_four$base.coverage" NAME="base Coverage Results" MODIFIED="1724634660699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240825_gift" />
-    <SUITE FILE_PATH="coverage/python_four$test2__2_.coverage" NAME="test2 (2) Coverage Results" MODIFIED="1723547680234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240813" />
-    <SUITE FILE_PATH="coverage/python_four$ksf.coverage" NAME="ksf Coverage Results" MODIFIED="1724524652545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240825" />
+    <SUITE FILE_PATH="coverage/python_four$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1724695456428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240826" />
+    <SUITE FILE_PATH="coverage/python_four$glob_test.coverage" NAME="glob_test Coverage Results" MODIFIED="1724693812471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240826" />
     <SUITE FILE_PATH="coverage/python_four$copytest2.coverage" NAME="copytest2 Coverage Results" MODIFIED="1709279896934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240228" />
-    <SUITE FILE_PATH="coverage/python_four$students__1_.coverage" NAME="students (1) Coverage Results" MODIFIED="1723753430070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240801" />
-    <SUITE FILE_PATH="coverage/python_four$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1724274816872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240822" />
     <SUITE FILE_PATH="coverage/python_four$dolloar.coverage" NAME="dolloar Coverage Results" MODIFIED="1713498116523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240418" />
-    <SUITE FILE_PATH="coverage/python_four$test3__1_.coverage" NAME="test3 (1) Coverage Results" MODIFIED="1723994132853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240818" />
-    <SUITE FILE_PATH="coverage/python_four$test.coverage" NAME="test Coverage Results" MODIFIED="1724192080395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240821" />
-    <SUITE FILE_PATH="coverage/python_four$test6.coverage" NAME="test6 Coverage Results" MODIFIED="1724095086850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240819" />
     <SUITE FILE_PATH="coverage/python_four$logging.coverage" NAME="logging_test Coverage Results" MODIFIED="1723574052094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240813" />
-    <SUITE FILE_PATH="coverage/python_four$admin.coverage" NAME="admin Coverage Results" MODIFIED="1724634776480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240825_gift" />
     <SUITE FILE_PATH="coverage/python_four$20240302.coverage" NAME="20240302 Coverage Results" MODIFIED="1709320116763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240302" />
-    <SUITE FILE_PATH="coverage/python_four$Test2.coverage" NAME="Test2 Coverage Results" MODIFIED="1721955542211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240712" />
     <SUITE FILE_PATH="coverage/python_four$numtest.coverage" NAME="numtest Coverage Results" MODIFIED="1712174869080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240404" />
-    <SUITE FILE_PATH="coverage/python_four$process_test.coverage" NAME="process_test Coverage Results" MODIFIED="1723903832497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240817" />
     <SUITE FILE_PATH="coverage/python_four$testbase64.coverage" NAME="testbase64 Coverage Results" MODIFIED="1723967991242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240813" />
     <SUITE FILE_PATH="coverage/python_four$test__3_.coverage" NAME="test (3) Coverage Results" MODIFIED="1724522578080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240825" />
-    <SUITE FILE_PATH="coverage/python_four$utils.coverage" NAME="utils Coverage Results" MODIFIED="1724530357340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240825_gift/common" />
     <SUITE FILE_PATH="coverage/python_four$coc.coverage" NAME="coc Coverage Results" MODIFIED="1713422022525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240418" />
     <SUITE FILE_PATH="coverage/python_four$cat2.coverage" NAME="cat2 Coverage Results" MODIFIED="1720288119484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240706" />
-    <SUITE FILE_PATH="coverage/python_four$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1724077111478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240819" />
     <SUITE FILE_PATH="coverage/python_four$account.coverage" NAME="account Coverage Results" MODIFIED="1720293653986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240706" />
-    <SUITE FILE_PATH="coverage/python_four$Cat.coverage" NAME="Cat Coverage Results" MODIFIED="1722753203451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/animal/cat" />
-    <SUITE FILE_PATH="coverage/python_four$getnum.coverage" NAME="getnum Coverage Results" MODIFIED="1722202017563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240729" />
     <SUITE FILE_PATH="coverage/python_four$test2__1_.coverage" NAME="test2 (1) Coverage Results" MODIFIED="1723993764374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240818" />
+    <SUITE FILE_PATH="coverage/python_four$copydis.coverage" NAME="copydis Coverage Results" MODIFIED="1724679463388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240826" />
     <SUITE FILE_PATH="coverage/python_four$test1__1_.coverage" NAME="test1 (1) Coverage Results" MODIFIED="1711961799829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240401" />
     <SUITE FILE_PATH="coverage/python_four$file_exe.coverage" NAME="file_exe Coverage Results" MODIFIED="1724191822393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240821" />
-    <SUITE FILE_PATH="coverage/python_four$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1711713061882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240329" />
     <SUITE FILE_PATH="coverage/python_four$goose.coverage" NAME="goose Coverage Results" MODIFIED="1713537113876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240419" />
     <SUITE FILE_PATH="coverage/python_four$usewhile.coverage" NAME="usewhile Coverage Results" MODIFIED="1713415841063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240418" />
     <SUITE FILE_PATH="coverage/python_four$sorttest.coverage" NAME="sorttest Coverage Results" MODIFIED="1709275915857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240228" />
     <SUITE FILE_PATH="coverage/python_four$list_test.coverage" NAME="list_test Coverage Results" MODIFIED="1720210805713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240706" />
-    <SUITE FILE_PATH="coverage/python_four$user.coverage" NAME="user Coverage Results" MODIFIED="1724671033146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240825_gift" />
-    <SUITE FILE_PATH="coverage/python_four$students.coverage" NAME="students Coverage Results" MODIFIED="1723757504607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240815" />
     <SUITE FILE_PATH="coverage/python_four$pointest.coverage" NAME="pointest Coverage Results" MODIFIED="1720730189580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240712" />
-    <SUITE FILE_PATH="coverage/python_four$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1724079237860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240819" />
     <SUITE FILE_PATH="coverage/python_four$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1724445649043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240824" />
+    <SUITE FILE_PATH="coverage/python_four$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1724704897856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240826" />
     <SUITE FILE_PATH="coverage/python_four$list1.coverage" NAME="list1 Coverage Results" MODIFIED="1709274603690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240228" />
     <SUITE FILE_PATH="coverage/python_four$huabei.coverage" NAME="huabei Coverage Results" MODIFIED="1712168933587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240404" />
     <SUITE FILE_PATH="coverage/python_four$copytest.coverage" NAME="copytest Coverage Results" MODIFIED="1709277953491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240228" />
+    <SUITE FILE_PATH="coverage/python_four$person.coverage" NAME="person Coverage Results" MODIFIED="1720719532731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240712" />
+    <SUITE FILE_PATH="coverage/python_four$base.coverage" NAME="base Coverage Results" MODIFIED="1724634660699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240825_gift" />
+    <SUITE FILE_PATH="coverage/python_four$test2__2_.coverage" NAME="test2 (2) Coverage Results" MODIFIED="1723547680234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240813" />
+    <SUITE FILE_PATH="coverage/python_four$ksf.coverage" NAME="ksf Coverage Results" MODIFIED="1724524652545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240825" />
+    <SUITE FILE_PATH="coverage/python_four$students__1_.coverage" NAME="students (1) Coverage Results" MODIFIED="1723753430070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240801" />
+    <SUITE FILE_PATH="coverage/python_four$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1724274816872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240822" />
+    <SUITE FILE_PATH="coverage/python_four$test3__1_.coverage" NAME="test3 (1) Coverage Results" MODIFIED="1723994132853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240818" />
+    <SUITE FILE_PATH="coverage/python_four$test.coverage" NAME="test Coverage Results" MODIFIED="1724706519140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240826" />
+    <SUITE FILE_PATH="coverage/python_four$test6.coverage" NAME="test6 Coverage Results" MODIFIED="1724095086850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240819" />
+    <SUITE FILE_PATH="coverage/python_four$admin.coverage" NAME="admin Coverage Results" MODIFIED="1724634776480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240825_gift" />
+    <SUITE FILE_PATH="coverage/python_four$Test2.coverage" NAME="Test2 Coverage Results" MODIFIED="1721955542211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240712" />
+    <SUITE FILE_PATH="coverage/python_four$process_test.coverage" NAME="process_test Coverage Results" MODIFIED="1723903832497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240817" />
+    <SUITE FILE_PATH="coverage/python_four$utils.coverage" NAME="utils Coverage Results" MODIFIED="1724530357340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240825_gift/common" />
+    <SUITE FILE_PATH="coverage/python_four$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1724700904228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240826" />
+    <SUITE FILE_PATH="coverage/python_four$Cat.coverage" NAME="Cat Coverage Results" MODIFIED="1722753203451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/animal/cat" />
+    <SUITE FILE_PATH="coverage/python_four$getnum.coverage" NAME="getnum Coverage Results" MODIFIED="1722202017563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240729" />
+    <SUITE FILE_PATH="coverage/python_four$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1711713061882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240329" />
+    <SUITE FILE_PATH="coverage/python_four$user.coverage" NAME="user Coverage Results" MODIFIED="1724671033146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240825_gift" />
+    <SUITE FILE_PATH="coverage/python_four$students.coverage" NAME="students Coverage Results" MODIFIED="1723757504607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240815" />
     <SUITE FILE_PATH="coverage/python_four$cat.coverage" NAME="cat Coverage Results" MODIFIED="1720284846357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240706" />
     <SUITE FILE_PATH="coverage/python_four$captest.coverage" NAME="captest Coverage Results" MODIFIED="1713498601908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240419" />
-    <SUITE FILE_PATH="coverage/python_four$person.coverage" NAME="person Coverage Results" MODIFIED="1720719532731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240712" />
   </component>
 </project>

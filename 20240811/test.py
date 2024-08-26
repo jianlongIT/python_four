@@ -3,7 +3,7 @@
 import os
 
 path = os.getcwd()
-f = open(path + '/test.txt', 'w')
+f = open(path + '/jianlong.txt', 'w')
 f.write('hello jianlong')
 f.close()
 

@@ -20,11 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8702cf13-31ad-48b0-9d2d-290a431655dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/20240826/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20240826/test/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20240826/test1/jianlong/test2/a.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20240811/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/20240811/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20240826/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/20240826/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -274,7 +271,7 @@
       <workItem from="1724694180990" duration="1223000" />
       <workItem from="1724697803295" duration="1232000" />
       <workItem from="1724700860819" duration="803000" />
-      <workItem from="1724702119258" duration="4594000" />
+      <workItem from="1724702119258" duration="6191000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1722285922709</created>
@@ -297,7 +294,14 @@
       <option name="project" value="LOCAL" />
       <updated>1724672564313</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="27commit">
+      <created>1724707161264</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724707161264</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -319,7 +323,8 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="second commit" />
     <MESSAGE value="25commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="25commit" />
+    <MESSAGE value="27commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="27commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="340" y="118" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1723025875034">
@@ -334,25 +339,25 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="507" y="209" key="FileChooserDialogImpl/0.0.1440.900@0.0.1440.900" timestamp="1723622128877" />
-    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1724706519152">
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1724767316683">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1724706519152" />
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1724767316683" />
     <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.25.1440.820@0.25.1440.820" timestamp="1724517906487" />
-    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1724706519151">
+    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1724767316682">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1724706519151" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1724767316682" />
     <state width="1398" height="303" key="GridCell.Tab.0.center/0.25.1440.820@0.25.1440.820" timestamp="1724517906487" />
-    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1724706519150">
+    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1724767316681">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1724706519150" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1724767316681" />
     <state width="1398" height="303" key="GridCell.Tab.0.left/0.25.1440.820@0.25.1440.820" timestamp="1724517906486" />
-    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1724706519151">
+    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1724767316682">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1724706519151" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1724767316682" />
     <state width="1398" height="303" key="GridCell.Tab.0.right/0.25.1440.820@0.25.1440.820" timestamp="1724517906487" />
     <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1724706414885">
       <screen x="0" y="0" width="1440" height="900" />
@@ -382,10 +387,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="229" y="86" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1723624593798" />
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1724672576541">
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1724707169437">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1724672576541" />
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1724707169437" />
     <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1724077033022">
       <screen x="0" y="25" width="1440" height="820" />
     </state>
@@ -462,7 +467,7 @@
     <SUITE FILE_PATH="coverage/python_four$students__1_.coverage" NAME="students (1) Coverage Results" MODIFIED="1723753430070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240801" />
     <SUITE FILE_PATH="coverage/python_four$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1724274816872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240822" />
     <SUITE FILE_PATH="coverage/python_four$test3__1_.coverage" NAME="test3 (1) Coverage Results" MODIFIED="1723994132853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240818" />
-    <SUITE FILE_PATH="coverage/python_four$test.coverage" NAME="test Coverage Results" MODIFIED="1724706519140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240826" />
+    <SUITE FILE_PATH="coverage/python_four$test.coverage" NAME="test Coverage Results" MODIFIED="1724767316669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240826" />
     <SUITE FILE_PATH="coverage/python_four$test6.coverage" NAME="test6 Coverage Results" MODIFIED="1724095086850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240819" />
     <SUITE FILE_PATH="coverage/python_four$admin.coverage" NAME="admin Coverage Results" MODIFIED="1724634776480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240825_gift" />
     <SUITE FILE_PATH="coverage/python_four$Test2.coverage" NAME="Test2 Coverage Results" MODIFIED="1721955542211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20240712" />
